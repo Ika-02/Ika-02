@@ -26,7 +26,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,md" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,html,md" />
   </a>
 </p>
     
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github" />
+    <img src="https://skillicons.dev/icons?i=docker,github" />
   </a>
 </p>
 
