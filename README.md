@@ -25,7 +25,7 @@
 - 📋 Languages:
   
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://youtu.be/dQw4w9WgXcQ">
     <img src="https://skillicons.dev/icons?i=py,cpp,html,md" />
   </a>
 </p>
@@ -33,7 +33,7 @@
 - ♾️ DevOps:
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://youtu.be/dQw4w9WgXcQ">
     <img src="https://skillicons.dev/icons?i=docker,github" />
   </a>
 </p>
@@ -41,7 +41,7 @@
 - 💽 Miscs:
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://youtu.be/dQw4w9WgXcQ">
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,autocad" />
   </a>
 </p>
@@ -54,6 +54,7 @@
 
 <br>
   
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D2K5CZ6)
 -----
 Credits: based on [Sarath P M](https://github.com/sarath-pm)'s README modified by [Ika](https://github.com/Ika-02)
  (Last edited on 28/02/2023)
