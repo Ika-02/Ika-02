@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying `Computer Science` at `HeH`
 
-- ✨ Also developing a *multi-purpose discord*  bot in **Python**
+- ✨ Also developing a *multi-purpose discord bot* in **Python**
 
 - 💬 Ask me about anything, I am happy to help when I can!😉
 
