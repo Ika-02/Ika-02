@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently studying `Computer Science` at `HeH`
 
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/Ika-02)**
+- ✨ Also developing a *multi-purpose discord*  bot in **Python**
 
 - 💬 Ask me about anything, I am happy to help when I can!😉
 
-- 😄 Pronouns: Any
+- 🌹 Pronouns: Any
 
 <br>
 
@@ -26,7 +26,7 @@
   
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=py,cpp,html,md" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,md" />
   </a>
 </p>
     
@@ -46,15 +46,19 @@
   </a>
 </p>
 
+
 <br> 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=Ika-02&theme=tokyonight&show_icons=true/460/300">
+<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=Ika-02&theme=tokyonight&show_icons=true/460/300"></p>
 
 <br>
   
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D2K5CZ6)
+<p align="center">
+  <a href='https://ko-fi.com/D1D2K5CZ6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
+  
 -----
 Credits: based on [Sarath P M](https://github.com/sarath-pm)'s README modified by [Ika](https://github.com/Ika-02)
  (Last edited on 28/02/2023)
