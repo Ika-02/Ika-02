@@ -26,7 +26,7 @@
   
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,md" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,md" />
   </a>
 </p>
     
@@ -61,4 +61,4 @@
   
 -----
 Credits: based on [Sarath P M](https://github.com/sarath-pm)'s README modified by [Ika](https://github.com/Ika-02)
- (Last edited on 28/02/2023)
+ (Last edited on 19/05/2023)
