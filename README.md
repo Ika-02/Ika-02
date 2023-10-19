@@ -22,11 +22,19 @@
 
 <p align="center">
 
-- 📋 Languages:
+- 📋 Languages I use the most:
   
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,md" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,md" />
+  </a>
+</p>
+
+- 📙 I also know a bit of:
+  
+<p align="center">
+  <a href="https://youtu.be/dQw4w9WgXcQ">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,php" />
   </a>
 </p>
     
@@ -34,7 +42,7 @@
 
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=docker,github" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
   </a>
 </p>
 
@@ -42,7 +50,7 @@
 
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,autocad" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,autocad,vscode" />
   </a>
 </p>
 
@@ -61,4 +69,4 @@
   
 -----
 Credits: based on [Sarath P M](https://github.com/sarath-pm)'s README modified by [Ika](https://github.com/Ika-02)
- (Last edited on 19/05/2023)
+ (Last edited on 19/10/2023)
