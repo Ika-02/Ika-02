@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Ioka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   
@@ -34,7 +34,7 @@
   
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,php" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,php,bash" />
   </a>
 </p>
     
@@ -69,4 +69,4 @@
   
 -----
 Credits: based on [Sarath P M](https://github.com/sarath-pm)'s README modified by [Ika](https://github.com/Ika-02)
- (Last edited on 19/10/2023)
+ (Last edited on 18/01/2024)
