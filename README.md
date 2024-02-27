@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying `Computer Science` at `HeH`
 
-- ✨ Also developing a *multi-purpose discord bot* in **Python**
+- ✨ Learning *JavaScript* & *jQuery* at the moment.
 
 - 💬 Ask me about anything, I am happy to help when I can!😉
 
@@ -34,7 +34,7 @@
   
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,php,bash" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,php,mysql,bash,js,jquery" />
   </a>
 </p>
     
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,autocad,vscode" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,autocad,vscode,obsidian" />
   </a>
 </p>
 
@@ -69,4 +69,4 @@
   
 -----
 Credits: based on [Sarath P M](https://github.com/sarath-pm)'s README modified by [Ika](https://github.com/Ika-02)
- (Last edited on 18/01/2024)
+ (Last edited on 27/02/2024)
