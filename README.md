@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ioka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Ika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   
@@ -8,9 +8,9 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently studying `Computer Science` at `HeH`
+- 🔭 I’m currently studying `IT` at `HEH`
 
-- ✨ Learning *React* at the moment.
+- ✨ Preparing for my *exams* at the moment.
 
 - 💬 Ask me about anything, I am happy to help when I can!😉
 
@@ -26,7 +26,7 @@
   
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=py,html,css,md" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,md,bash" />
   </a>
 </p>
 
@@ -34,23 +34,23 @@
   
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,php,mysql,bash,js,jquery,react" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,php,mysql,sqlite,js,jquery,react,bootstrap&perline=5" />
   </a>
 </p>
     
-- ♾️ DevOps:
+- 💿 OS:
 
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,redhat,windows" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,redhat,raspberrypi,windows,arduino" />
   </a>
 </p>
 
-- 💽 Miscs:
+- 🔧 Tools:
 
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,autocad,vscode,obsidian" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,autocad,obsidian,postman,unity,vim,vite&perline=5" />
   </a>
 </p>
 
@@ -69,4 +69,4 @@
   
 -----
 Credits: based on [Sarath P M](https://github.com/sarath-pm)'s README modified by [Ika](https://github.com/Ika-02)
- (Last edited on 05/04/2024)
+ (Last edited on 27/05/2024)
