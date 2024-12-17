@@ -34,7 +34,7 @@
   
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,php,mysql,sqlite,js,jquery,react,bootstrap&perline=5" />
+    <img src="https://skillicons.dev/icons?i=powershell,c,cpp,rust,php,mysql,sqlite,js,jquery,react,bootstrap&perline=5" />
   </a>
 </p>
     
@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,autocad,obsidian,postman,unity,vim,vite&perline=5" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,autocad,obsidian,postman,unity,vim,vite,aws&perline=5" />
   </a>
 </p>
 
@@ -69,4 +69,4 @@
   
 -----
 Credits: based on [Sarath P M](https://github.com/sarath-pm)'s README modified by [Ika](https://github.com/Ika-02)
- (Last edited on 27/05/2024)
+ (Last edited on 17/12/2024)
