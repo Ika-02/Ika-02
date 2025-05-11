@@ -8,9 +8,9 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently studying `IT` at `HEH`
+- 🔭 I’m currently studying `IT` at `HEH` and doing an internship at `Infomaniak`
 
-- ✨ Preparing for my *exams* at the moment.
+- ✨ Preparing my *internship report* at the moment.
 
 - 💬 Ask me about anything, I am happy to help when I can!😉
 
@@ -34,7 +34,7 @@
   
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=powershell,c,cpp,rust,php,mysql,sqlite,js,jquery,react,bootstrap&perline=5" />
+    <img src="https://skillicons.dev/icons?i=powershell,c,cpp,rust,php,mysql,sqlite,js,jquery,react,bootstrap,fastapi&perline=5" />
   </a>
 </p>
     
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=docker,linux,redhat,raspberrypi,windows,arduino" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,redhat,ubuntu,debian,raspberrypi,windows,arduino&perline=5" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,autocad,obsidian,postman,unity,vim,vite,aws&perline=5" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,autocad,obsidian,postman,unity,vim,vite,aws,ansible,terraform&perline=5" />
   </a>
 </p>
 
@@ -69,4 +69,4 @@
   
 -----
 Credits: based on [Sarath P M](https://github.com/sarath-pm)'s README modified by [Ika](https://github.com/Ika-02)
- (Last edited on 17/12/2024)
+ (Last edited on 11/05/2025)
